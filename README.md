@@ -21,4 +21,5 @@
 - **View Sentiment Analysis**: User views sentiment analysis and keywords right next to news.
 
 ## Design  Diagram
-(To be added)
+![image](https://github.com/user-attachments/assets/b3b6df1b-17e8-44a7-8468-9948c89635e2)
+
